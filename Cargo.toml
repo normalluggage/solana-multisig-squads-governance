@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-multisig-squads-governance"]
+resolver = "2"
